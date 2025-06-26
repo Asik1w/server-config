@@ -1,2 +1,2 @@
 password=asikbhai
-  status=on
+status=on

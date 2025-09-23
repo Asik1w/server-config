@@ -1,2 +1,2 @@
 password=asik
-active=on
+status=on

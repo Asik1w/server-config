@@ -1,2 +1,2 @@
-password=asik 
+password=asikbhai
 status=on
